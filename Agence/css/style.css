@@ -1,0 +1,66 @@
+* {
+    font-family: 'Fira Sans', sans-serif;
+    margin-block-start: auto;
+}
+
+body {
+    margin: 0px;
+    background-color: wheat;
+}
+
+#bgText {
+    height: 100%;
+    width: 80vw;
+    background-color: white;
+    position: absolute;
+    left: 10vw;
+    top: 200px;
+    border-radius: 10%;
+}
+
+header {
+    height: 20vh;
+    width: 100%;
+    background-image: url("../image/header.jpg");
+    background-repeat: no-repeat;
+    background-position-x: 30%;
+    background-position-y: 65%;
+    margin-bottom: 100px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+    margin-bottom: 70px;
+    color: teal;
+}
+h2 {
+    text-align: center;
+    font-size: 30px;
+    margin-bottom:150px;
+}
+
+#sydneyMap {
+    width: 300px;
+    height: 200px;
+    position: absolute;
+    right: 5%;
+    top: 25%
+}
+
+#bgText p{
+    margin-left: -400px;
+    text-align: center;
+}
+
+.info {
+    margin-left: 20px;
+    list-style-type: none;
+    margin-bottom: 10px;
+}
+
+.Titles {
+    margin-left: 20px;
+    list-style-type: none;
+    margin-bottom: 30px;
+}
