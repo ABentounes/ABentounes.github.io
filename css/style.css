@@ -7,6 +7,28 @@ body {
     margin: 0px;
 }
 
+
+/*anchor*/
+
+#anchor {
+    position: fixed;
+    top: 40vh;
+    margin-right: 20px;
+    text-align: right;
+    right: 20px;
+    text-decoration: none;
+}
+
+#anchor ul{
+    list-style-type: none;
+}
+
+#anchor a {
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+}
+
 /* pannel background position*/
 
 #firstPannel {
@@ -97,7 +119,7 @@ body {
     height: 440px;
     border-radius: 50%;
     margin-top: 7%;
-    margin-left: 70%;
+    margin-left: 60%;
 }
 
 #secPannel h2 {
